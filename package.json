@@ -1,0 +1,15 @@
+{
+  "name": "bestsender",
+  "version": "1.0.0",
+  "description": "BestSender project",
+  "main": "index.js",
+  "scripts": {
+    "build": "flutter build"
+  },
+  "dependencies": {
+    "flutter": "^2.0.0"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
